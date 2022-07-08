@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ParseHeaderError",""]],"struct":[["BootInfo",""],["NetInfo",""],["RawBootInfo",""],["TlsInfo",""]]};
